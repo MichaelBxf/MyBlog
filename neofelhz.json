@@ -1,0 +1,15 @@
+{
+	"name"				: "neoFelhz's Blog",
+	"short_name"		: "neoFelhz",
+	"lang"				: "zh-CN",
+	"theme_color"		: "#455a64",
+	"background_color"	: "#e0e0e0",
+	"icons"				: [{  
+		"src"	: "https://materialcdn.b0.upaiyun.com/img/avatar.png",  
+		"sizes"	: "256x256",
+		"type"	: "image/png" 
+	}], 
+	"start_url"			: "https://blog.nfz.moe",
+	"display"			: "standalone",
+	"orientation" 		: "portrait-primary"
+}
